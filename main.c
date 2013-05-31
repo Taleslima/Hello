@@ -2,7 +2,7 @@
 
 int main(){
 
-    printf("Hello My Friend, How are you today?");
+    printf("Como ficaria agora?");
 
     return 0;
 }
